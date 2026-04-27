@@ -1,1 +1,1 @@
-# azure-sdk-c-example
+# azure-sdk-csharp-example
